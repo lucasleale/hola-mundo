@@ -1,1 +1,3 @@
-alert('Hola, Usuario');
+const nombreUsuario = prompt('Cual es su nombre?');
+
+alert(`Hola ${nombreUsuario}`);
